@@ -3,8 +3,7 @@ In this video I'm going to show you how I use VBA and ChatGPT to automate some p
 
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/AEgzrEYYboU/0.jpg)](https://youtu.be/AEgzrEYYboU)
 
 
 ## About Me
